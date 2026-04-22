@@ -79,14 +79,6 @@
 - **Computer Vision Pipeline**  
   Implemented vision models for object detection, scene understanding, and robotic perception tasks.
 
----
-
-## 🏆 Highlights
-
-- MSc Robotics student in the UK
-- Building portfolio toward PhD / Research Engineer / Embodied AI roles
-- Strong interest in robotics research with real-world deployment
-- Actively applying to research internships, PhD positions, and AI/robotics opportunities
 
 ---
 
